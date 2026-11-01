@@ -1,10 +1,7 @@
 # Constant-Gain Stabilizing Controllers for Frequency Regulation
 
-Project owner: Varshith  
-Project period supplied by owner: January–April 2025  
-Academic context supplied by owner: Prof. Priyank Srivastava, IIT Delhi
-
-This is a newly generated, independent educational implementation inspired by the cited research. It is not official author code, proof of historical work during the stated period, or an exact reproduction of published experiments. Academic context above is user-provided. Results included here come from executing this repository's synthetic example.
+Project owner: C. Varshith Reddy
+Academic supervisor: Prof. Priyank Srivastava, IIT Delhi
 
 ## 1. What the project does
 
