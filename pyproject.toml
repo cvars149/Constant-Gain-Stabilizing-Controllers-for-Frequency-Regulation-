@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "constant-gain-frequency-control"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "matplotlib>=3.6"]
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+[project.scripts]
+frequency-control = "frequency_control.run:main"
+[tool.setuptools.packages.find]
+include = ["frequency_control*"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]
