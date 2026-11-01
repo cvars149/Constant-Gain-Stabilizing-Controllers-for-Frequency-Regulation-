@@ -1,7 +1,7 @@
 # Constant-Gain Stabilizing Controllers for Frequency Regulation
 
-Project owner: C. Varshith Reddy
-# Academic supervisor: Prof. Priyank Srivastava, IIT Delhi
+Project owner: C. Varshith Reddy.
+  Academic supervisor: Prof. Priyank Srivastava, IIT Delhi.
 
 ## 1. What the project does
 
