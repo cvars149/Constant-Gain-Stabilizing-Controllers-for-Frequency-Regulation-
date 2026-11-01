@@ -313,6 +313,3 @@ Use for education and numerical exploration, not deployment on an electrical gri
 - Long 12-bus execution: start with the default three-bus example.
 - Different numbers across environments: numerical solvers and library versions can differ; compare status and residuals, not just rounded values.
 
-## 15. Attribution and licensing
-
-Project owner: Varshith. Research ideas and paper results remain attributed to the cited authors. Papers are referenced, not redistributed. No software licence is assigned on the owner's behalf; select an appropriate licence before offering this code for reuse. No claims of professor endorsement, original research authorship or historical project results are made.
